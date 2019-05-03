@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1098574814845",
+    "firebase_url": "https://teknologibergerak-b0ab0.firebaseio.com",
+    "project_id": "teknologibergerak-b0ab0",
+    "storage_bucket": "teknologibergerak-b0ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098574814845:android:16013d17a1f9eebe",
+        "android_client_info": {
+          "package_name": "com.filano.tekber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098574814845-20uo4crsch8orcvglob1lsgphpvhrabo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filano.tekber",
+            "certificate_hash": "232df91255c20049a68ce2aec34ba91434ef3415"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7q-EDOilLmvMNeTivVLliOLxp1MeATA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098574814845-vaeadmah619r6npq3c26vjrm51l5fuof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
